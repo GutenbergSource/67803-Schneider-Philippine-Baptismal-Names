@@ -1,0 +1,1634 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --       3 -->
+    <!ENTITY ldquo  CDATA "&#x201C;"  --       1 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --       2 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       5 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --       1 -->
+
+]>
+<TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title nfc=2>A List of Philippine Baptismal Names</title>
+<author key="Schneider, E. E.">E. E. Schneider</author>
+<respStmt><resp>Contributor</resp> <name key="Barrows, David Prescott" ref="https://viaf.org/viaf/37308661/">David Prescott Barrows (1873&ndash;1954)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=LCCN>#####</idno>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20201225082335anonymous</idno>
+<idno type=PGDPProjectId>projectID5fea4a7234e5e</idno>
+<idno type=PGSrc>67803-Schneider-Philippine-Baptismal-Names</idno>
+<idno type=epub-id>urn:uuid:0f658189-2a15-4d47-b7ce-6485b2da6829</idno>
+<idno type=PGnum>67803</idno>
+<date>2022-04-09</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Scans of this book are available from the Internet Archive (copy <xref url="https://archive.org/details/listofphilippine00phil">1</xref>).
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type=Description>#####<!--A short description of this document.--></note>
+    <note type=Credits>Produced by Jeroen Hellingman and the Online Distributed Proofreading Team at https://www.pgdp.net/ for Project Gutenberg.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>E. E. Schneider</author>
+<title>A List of Philippine Baptismal Names</title>
+<date>1905</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+    <p></p>
+    <tagsDecl lang=xx>
+        <rendition selector=".small">font-size: small;</rendition>
+        <rendition selector=".splitListTable">width: 100%;</rendition>
+        <rendition selector=".splitListTable td">width: 33%;</rendition>
+        <rendition selector="h3">text-align: center;</rendition>
+    </tagsDecl>
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=xx>No linguistic content</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2022-01-02 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Newly Designed Front Cover.</figDesc>
+</figure>
+
+
+
+
+
+
+<pb id=pb1 n=1 facs="f:001">
+<div1 id=ad type=Advertisement>
+<head>ANNOUNCEMENT OF RECENT AND PENDING PUBLICATIONS OF THE BUREAU OF EDUCATION.</head>
+
+
+<list>
+<item><ab type=itemNum>1.</ab> The Philippine Normal School. (Prospectus for the year 1903&ndash;4.) April, 1904.
+<item><ab type=itemNum>2.</ab> A Course of Study in Vocal Music for Vacation Normal Institutes. By Mary E. Gordon-Dunster. May, 1904.
+<item><ab type=itemNum>3.</ab> The Philippine School of Arts and Trades. (Prospectus for the year 1904&ndash;5.) May, 1904.
+<item><ab type=itemNum>4.</ab> The Philippine Nautical School. (Prospectus for the year 1904&ndash;5.) June, 1904.
+<item><ab type=itemNum>5.</ab> The Treatment of Smallpox. By J. B. Thomas, M. D. June, 1904.
+<item><ab type=itemNum>6.</ab> Industrial Exhibits of Philippine Schools at the Louisiana Purchase Exposition. By A. R. Hager. June, 1904.
+<item><ab type=itemNum>7.</ab> Courses of Instruction for the Public Schools of the Philippine Islands. June, 1904.
+<item><ab type=itemNum>8.</ab> Cursos de Enseñanza para las Escuelas Públicas de las Islas Filipinas. (Spanish Translation of Bulletin No. 7.<corr>)</corr>
+<item><ab type=itemNum>10.</ab> Government in the United States. Prepared for use in the Philippine public schools. By Albert H. Putney.
+<item><ab type=itemNum>11.</ab> Courses in Mechanical Drawing, Wood Working, and Iron Working for Provincial Secondary Schools.
+<item><ab type=itemNum>12.</ab> Advanced and Post-Graduate Studies Offered by the Philippine Normal School for Preparation for Entrance to American Colleges and Universities or to the University of the Philippines.
+<item><ab type=itemNum>13.</ab> Colonial Governments of European States. Prepared for use in the Philippine public schools. By Albert H. Putney. (In preparation.)
+<item><ab type=itemNum>14.</ab> Codified School Law of the Philippine Islands, with Regulations of the General Superintendent.
+<item><ab type=itemNum>15.</ab> American Politics and Parliamentary Law. Explained for Filipino Students. By Albert H. Putney. (In preparation.)
+<item><ab type=itemNum>16.</ab> Agricultural Teaching in Primary and Intermediate Schools. (In preparation.)
+<item><ab type=itemNum>17.</ab> Ethical Teaching in Public Schools. (In preparation.)
+<item><ab type=itemNum>18.</ab> Course in Housekeeping for Intermediate Schools. (In preparation.)
+<item><ab type=itemNum>19.</ab> Teaching of Phonics to Filipino Children. (In preparation.)
+<item><ab type=itemNum>20.</ab> Games and Athletic Training in the Public Schools. (In preparation.)
+</list>
+
+
+
+
+<pb id=pb2 n=2 facs="f:002">
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+<titlePage>
+<docTitle>
+<titlePart type=series>BULLETIN No. 9, 1905</titlePart>
+</docTitle>
+
+<byline>DEPARTMENT OF PUBLIC INSTRUCTION
+<lb>BUREAU OF EDUCATION
+</byline>
+
+<docTitle><titlePart>A LIST OF
+<lb>PHILIPPINE BAPTISMAL
+<lb>NAMES</titlePart></docTitle>
+
+
+<docImprint>MANILA
+<lb>BUREAU OF PUBLIC PRINTING
+<lb><docDate>1905</docDate>
+
+<!-- 28188&ndash;1 -->
+</titlePage>
+
+
+
+
+<pb id=pb4 n=4 facs="f:004">
+<div1 id=introduction type=Introduction>
+<head>INTRODUCTION.</head>
+
+
+<p>The following list of Philippine baptismal names originated with Mr. E. E. Schneider, a teacher in the Bureau of Education in the division of Ambos Camarines, and was submitted to the undersigned in October of last year.
+
+<p>Mr. Schneider found that very great difficulty is experienced by American teachers in determining the correct spelling of the proper names of Filipino pupils enrolled in our schools. Filipino teachers also are frequently careless in this matter, and, through neglect and the absence of proper standards, the spelling of proper names in the Philippines has undergone great corruption. The necessity for such a list as this is certainly apparent to anyone who has had the task of properly enrolling pupils in a school.
+
+<p>Mr. Schneider&apos;s list comprises something more than 1,400 names. They were in large part taken from the Roman Catholic calendars, but other names were added by him from school registers and other sources.
+
+<p>It was Mr. Schneider&apos;s recommendation that the matter be submitted to revision here in Manila, and this task was excellently performed by Mr. Emerson Christie. Mr. Christie went through a great number of the cedula lists of Manila, examining over 25,000 names, and in this way verified and corrected many doubtful names. In making corrections of the spelling of these names as they appear on the cedula lists, Mr. Christie followed an authorized edition of the Roman Martyrology, published in Madrid in 1891. In adding written accent marks he followed the rules of the Royal Spanish Academy as set forth in its authoritative grammar in Chapter III, Part IV.
+
+<p>Mr. Christie desired to express his deep sense of obligation to Monsignor Fowler, Father Stanton, S. J., Father O&apos;Connell, S. J., Father Sotero, who aided him in the work and collaborated with <pb id=pb5 n=5 facs="f:005">him; and to Mr. Ellis Cromwell, chief deputy collector of the Department of Assessments and Collections, who gave him free access to the tens of thousands of names preserved in his office.
+
+
+<p rend=signed><hi rend=sc>David P. Barrows</hi>,
+<lb><hi>General Superintendent of Education</hi>.
+
+
+<p rend=dateline><hi rend=sc>Manila</hi>, <hi>June 27, 1904</hi>.
+
+
+
+
+
+<pb id=pb6 n=6 facs="f:006">
+<div1 id=preface type=Preface>
+<head>PREFACE.</head>
+
+
+<p>To facilitate the use of the list, the compiler begs leave to call the attention of his fellow-teachers to the following common sources of error:
+
+<list>
+    <item><ab type=itemNum>(1)</ab> Confusing <hi>g</hi>, <hi>j</hi>, and <hi>h</hi>. <hi>H</hi> having in the native languages the same value as <hi>g</hi> before <hi>e</hi> and <hi>i</hi> and as <hi>j</hi> before all vowels, is frequently confused with them. (Examples: Heminiano and Jiminiano for Geminiano; Aleho for Alejo.)
+    <item><ab type=itemNum>(2)</ab> Confusing <hi>b</hi> and <hi>p</hi> with <hi>v</hi> and <hi>f</hi>. (Bibencia for Vivencia; Pilemón for Filemón.)
+    <item><ab type=itemNum>(3)</ab> Confusing <hi>c</hi>, <hi>s</hi>, and <hi>z</hi>, and sometimes <hi>x</hi>. (Cenón for Zenón; Cenén for Senén; Zofronio for Sofronio; Felis and Feliz for Felix; Mácsima for Máxima.)
+    <item><ab type=itemNum>(4)</ab> Confusing <hi>e</hi> with <hi>i</hi>, and <hi>o</hi> with <hi>u</hi>. (Eusídio for Eusebio; Froctoso for Fructuoso.)
+    <item><ab type=itemNum>(5)</ab> Omitting or inserting initial <hi>H</hi>. (Eladio for Heladio; Henrique for Enrique.)
+    <item><ab type=itemNum>(6)</ab> Writing <hi>ll</hi> for <hi>li</hi> and <hi>ñ</hi> for <hi>ni</hi>. (Emillo for Emilio; Higiño for Higinio. <hi>Ll</hi> and <hi>ñ</hi> occur only once in the whole list, in Llorente and Iñigo.)
+</list>
+
+<p>The above are only a few out of hundreds of examples actually found in school registers, tax and cedula lists, etc.
+
+<p>Referring to the written accent in such names as Damián (o) (a), it should be remembered that this disappears in the forms with vowel terminations, as in these the natural tonic accent falls on the penultimate syllable.
+
+<p>While the compiler hopes that the list may be of service to his colleagues in teaching their pupils what American children learn almost first of all&mdash;that is, to spell correctly their own names&mdash;he is at the same time well aware that this attempt is not complete nor absolutely correct, and he will acknowledge with sincere thanks any additions and corrections that teachers or others may be kind enough to send him.
+
+
+<p rend=signed><hi rend=sc>E. E. Schneider.</hi>
+
+<p rend=dateline><hi rend=sc>San José, Camarines, P.I.</hi>, <hi>October, 1903</hi>.
+
+
+
+
+<pb id=pb8 n=8 facs="f:008">
+</front>
+<body>
+<div1 id=pbn type=Chapter>
+<head>LIST OF PHILIPPINE BAPTISMAL NAMES.</head>
+
+
+<div2 id=pbn.a type=Section>
+<head>A</head>
+
+<list rend="columns(3)">
+<item>Aarón
+<item>Abdías
+<item>Abdón
+<item>Abercio
+<item>Abraham
+<item>Absalón
+<item>Abundio
+<item>Acacio
+<item>Acario
+<item>Acisclo
+<item>Acucio
+<item>Acudeo
+<item>Adalberto
+<item>Adela
+<item>Adelaida
+<item>Adelfo (a)
+<item>Adelina
+<item>Adolfo
+<item>Adriano (a)
+<item>Afro (a)
+<item>Afrodisio (a)
+<item>Agapito (a)
+<item>Agatocilia
+<item>Agatón (a)
+<item>Agatónico (a)
+<item>Agatópedes
+<item>Aglae
+<item>Agoardo
+<item>Agrícola
+<item>Agripino (a)
+<item>Águedo (a)
+<item>Agustín (a)
+<item>Albano (a)
+<item>Alberico (a)
+<item>Alberto (a)
+<item>Albino (a)
+<item>Aldegunda
+<item>Alejandro (a)
+<item>Alejandrino (a)
+<item>Alejo (a)
+<item>Alfonso (a)
+<item>Alfredo (a)
+<item>Alipio (a)
+<item>Almaquio (a)
+<item>Alodia
+<item>Alvaro (a)
+<item>Amadeo (a)
+<item>Amado (a)
+<item>Amador
+<item>Amalio (a)
+<item>Amancio (a)
+<item>Amando (a)
+<item>Amaranto (a)
+<item>Amario (a)
+<item>Ambrosio (a)
+<item>Amelberga
+<item>Amiano (a)
+<item>Amón (a)
+<item>Amonaria
+<item>Amós
+<item>Amparo
+<item>Ana
+<item>Anacleto (a)
+<item>Ananías
+<item>Anastasio (a)
+<item>Anatolio (a)
+<item>Andoquio (a)
+<item>Andrea
+<item>Andrés
+<item>Anfiloquio (a)
+<item>Ángel (a)
+<item>Ángeles
+<item>Angélica
+<item>Aniano (a)
+<item>Aniceto (a)
+<item>Anisio (a)
+<item>Anselmo (a)
+<item>Ansia
+<item>Antea
+<item>Antelmo (a)
+<item>Antero (a)
+<item>Antidio (a)
+<item>Antioco (a)
+<item>Antipas
+<item>Antoliana
+<item>Antonio (a)
+<item>Antusa
+<item>Anunciación
+<item>Apeles
+<item>Apias
+<item>Apolinar (io) (ia)
+<item>Apolonio (a)
+<item>Aproniano (a)
+<item>Áquila
+<item>Aquíleo (a)
+<item>Aquilino (a)
+<item>Arcadio (a)
+<item>Arcángel
+<pb id=pb9 n=9 facs="f:009"><item>Areta
+<item>Aretas
+<item>Argéntea
+<item>Aristarco (a)
+<item>Arístides
+<item>Aristón (a)
+<item>Arnolfo (a)
+<item>Arsenio (a)
+<item>Artemio (a)
+<item>Arturo (a)
+<item>Ascención
+<item>Astorga
+<item>Asunción
+<item>Atalo (a)
+<item>Atanasio (a)
+<item>Atenodoro (a)
+<item>Atenógenes
+<item>Atilano (a)
+<item>Atón
+<item>Augurio (a)
+<item>Augusto (a)
+<item>Aureo (a)
+<item>Aurelio (a)
+<item>Aurora
+<item>Auspicio (a)
+<item>Austreberta (o)
+<item>Austregísilo (a)
+<item>Austremonia
+<item>Avelino (a)
+<item>Avito (a)
+<item>Azas
+</list>
+
+
+<div2 id=pbn.b>
+<head>B</head>
+
+<list rend="columns(3)">
+<item>Balbino (a)
+<item>Baldomero (a)
+<item>Baltasar (a)
+<item>Bárbara
+<item>Barbea
+<item>Barlaán
+<item>Barsabas
+<item>Bartolomé (ea)
+<item>Barula
+<item>Basíla (eo)
+<item>Basiliano
+<item>Basilio (a)
+<item>Basiliso (a)
+<item>Basso (a)
+<item>Batilde
+<item>Baudelio (a)
+<item>Báyulo
+<item>Beata (o)
+<item>Beatriz
+<item>Beda
+<item>Bega
+<item>Benedicto (a)
+<item>Benigna (o)
+<item>Benildes
+<item>Benito
+<item>Benjamín
+<item>Bercario
+<item>Berenguer
+<item>Berenice
+<item>Bernabé
+<item>Bernabela
+<item>Bernardino (a)
+<item>Bernardo (a)
+<item>Berta
+<item>Bertila
+<item>Bertino
+<item>Bertoldo
+<item>Bibiano (a)
+<item>Bienvenido (a)
+<item>Blanca
+<item>Blanda
+<item>Blandina
+<item>Blas (a)
+<item>Bona
+<item>Bonifacio
+<item>Bonosa
+<item>Borromeo
+<item>Braulio
+<item>Briccio
+<item>Brígido (a)
+<item>Bruno (a)
+<item>Buenaventura
+<item>Burcardo
+</list>
+
+
+<div2 id=pbn.c>
+<head>C</head>
+
+<list rend="columns(3)">
+<item>Calamanda
+<item>Calinico (a)
+<item>Caliopa
+<item>Caliopio
+<item>Calixto (a)
+<item>Camilo (a)
+<item>Candelaria
+<item>Cándido (a)
+<item>Cantalicio
+<item>Cantidio
+<item>Canuto (a)
+<item>Capitolina
+<item>Capiton
+<item>Caridad
+<item>Carina
+<item>Carlos
+<item>Carlota
+<item>Carolina
+<item>Carmen
+<item>Carpo
+<item>Casdoa
+<item>Casiano
+<item>Casimiro
+<item>Casio
+<item>Cástido
+<item>Casto
+<item>Castor (a) (io)
+<item>Catalino (a)
+<item>Cayetano (a)
+<item>Cayo
+<item>Ceciliano
+<pb id=pb10 n=10 facs="f:010"><item>Cecilio (a)
+<item>Ceferino (a)
+<item>Celedonio (a)
+<item>Celerino (a)
+<item>Celestino (a)
+<item>Celso
+<item>Centola
+<item>César
+<item>Cesáreo (a)
+<item>Cilina
+<item>Cipriano (a)
+<item>Cirenia
+<item>Ciriaco (a)
+<item>Cirilo (a)
+<item>Cirion (Ciria)
+<item>Ciro
+<item>Citino
+<item>Clarencio
+<item>Clarina
+<item>Claro (a)
+<item>Clateo
+<item>Claudiano (a)
+<item>Claudio (a)
+<item>Clemencia
+<item>Clemente
+<item>Clementino (a)
+<item>Cleto (a)
+<item>Climaco
+<item>Clodoaldo
+<item>Clotilde
+<item>Codrato
+<item>Cointa
+<item>Coleta
+<item>Colmano
+<item>Colomano
+<item>Columbano
+<item>Columbo (a)
+<item>Concepción
+<item>Conceso (a)
+<item>Concordio (a)
+<item>Conrado
+<item>Consolación
+<item>Consolada
+<item>Consorcia
+<item>Constancio (a)
+<item>Constantino
+<item>Consuelo
+<item>Cordula
+<item>Corentino
+<item>Corinto (a)
+<item>Cornelio (a)
+<item>Cosme
+<item>Cosmedín
+<item>Credula
+  <lb rend="indent(1em)"><hi rend=small>Corr. for Cordula</hi>
+<item>Cremencio
+<item>Crescenciano (a)
+<item>Crescencio (a)
+<item>Crescente
+<item>Crisanto (a)
+<item>Crisógono
+<item>Crisólogo (a)
+<item>Crisóstomo
+<item>Crispín (o) (a)
+<item>Crispiniano
+<item>Críspulo (a)
+<item>Cristeto (a)
+<item>Cristiano (a)
+<item>Cristino (a)
+<item>Cristóbal
+<item>Cuadrado
+<item>Cuartilla
+<item>Cucufate
+<item>Cunegunda
+<item>Custodio (a)
+</list>
+
+
+<div2 id=pbn.d>
+<head>D</head>
+
+<list rend="columns(3)">
+<item>Dafrosa
+<item>Dalmacio (a)
+<item>Dámaso (a)
+<item>Damián (o) (a)
+<item>Daniel (a)
+<item>Darío (a)
+<item>Dativo (a)
+<item>Dato
+<item>David
+<item>Davino
+<item>Dedicacion
+<item>Delfin (a)
+<item>Democrito (a)
+<item>Deogracias
+<item>Desiderio
+<item>Didimo
+<item>Diego (a)
+<item>Digna
+<item>Diomedes
+<item>Dionisio (a)
+<item>Dióscoro
+<item>Diosdado (a)
+<item>Doda
+<item>Dolores
+<item>Domiciano
+<item>Dominador
+<item>Domingo (a)
+<item>Domna
+<item>Domnino (a)
+<item>Domnio
+<item>Donatila
+<item>Donato (a)
+<item>Doroteo (a)
+<item>Druso
+<item>Dula (s)
+</list>
+
+
+<div2 id=pbn.e>
+<head>E</head>
+
+<list rend="columns(3)">
+<item>Ebrulfo
+<item>Edgardo (a)
+<item>Edilberto (a)
+<item>Edilburga
+<item>Ediltrudes
+<item>Edita
+<pb id=pb11 n=11 facs="f:011"><item>Edmundo (a)
+<item>Eduardo
+<item>Eduvigis
+<item>Efrén
+<item>Egidio
+<item>Eladio (a)
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Heladio (a)</hi>
+<item>Elamo
+<item>Eleázaro
+<item>Electa
+<item>Eleno (a)
+<item>Elenida
+<item>Eleonor
+<item>Elesbaán
+<item>Eleuterio (a)
+<item>Elías
+<item>Elifio
+<item>Eligio (a)
+<item>Elisa
+<item>Eliseo (a)
+<item>Elpidio (a)
+<item>Ema (or Emma)
+<item>Emelia
+<item>Emeramo
+<item>Emerenciana
+<item>Emerico
+<item>Emerida
+<item>Emeterio (a)
+<item>Emigdio
+<item>Emilio (a)
+<item>Emiliano (a)
+<item>Encarnación
+<item>Engracio (a)
+<item>Enrique (eta)
+<item>Eovaldo
+<item>Epicarides
+<item>Epifana
+<item>Epifanía
+<item>Epifanio
+<item>Epimaco
+<item>Epitacio (a)
+<item>Erasmo (a)
+<item>Erena
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Herena</hi>
+<item>Eriberto
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Heriberto</hi>
+<item>Erico
+<item>Ernesto (a)
+<item>Erón
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Herón</hi>
+<item>Eróteides
+<item>Erundina
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Herundina</hi>
+<item>Escolástico (a)
+<item>Esdras
+<item>Esmaragdo
+<item>Esmeraldo (a)
+<item>Espectacion
+  <lb rend="indent(1em)"><hi rend=small>Barbarism for Expertación</hi>
+<item>Esperanza
+<item>Espiridíon
+<item>Estanislao (a)
+<item>Esteban (fana)
+<item>Estefanio (a)
+<item>Estelita
+<item>Ester
+<item>Estratón
+<item>Euclides
+<item>Eudosio (a)
+<item>Eufemio (a)
+<item>Eufrasio (a)
+<item>Eufromiano
+<item>Eufronio
+<item>Eufrosina
+<item>Eugeniano
+<item>Eugenio (a)
+<item>Eulalio (a)
+<item>Eulampio (a)
+<item>Eulogio (a)
+<item>Eunomia
+<item>Euquerio
+<item>Eusebio (a)
+<item>Eustacio (a)
+<item>Eustaquio (a)
+<item>Eustasio (a)
+<item>Eustoquio (a)
+<item>Eustorgio
+<item>Eustosio
+<item>Eustracio
+<item>Eutiques
+<item>Eutiquiano
+<item>Eutiquio
+<item>Eutropio (a)
+<item>Evaldo
+<item>Evaristo (a)
+<item>Evelio
+<item>Evodio (a)
+<item>Exaltación
+<item>Expectación
+<item>Ezequiel
+<item>Exuperio
+</list>
+
+
+<div2 id=pbn.f>
+<head>F</head>
+
+<list rend="columns(3)">
+<item><corr sic=Fabian>Fabián</corr> (o) (a)
+<item>Fabio
+<item>Fabiola
+<item>Fabriciano
+<item>Facundo (a)
+<item>Faina
+<item>Fandila
+<item>Fausto (a)
+<item>Faustiniano
+<item>Faustino (a)
+<item>Fé
+<item>Febronia
+<item>Federico
+<item>Feliciano (a)
+<item>Felicidad
+<item><corr sic=Felicisimo>Felicísimo</corr> (a)
+<item>Felícitas
+<item>Felícula
+<item>Felino
+<item>Felipe (a)
+<pb id=pb12 n=12 facs="f:012"><item>Felisa
+<item>Felisardo
+<item>Félix
+<item>Fermín (a)
+<item>Fernando
+<item>Ferredo
+<item>Fiacrio
+<item>Fidel (a)
+<item>Fidencio
+<item>Filemón (a)
+<item>Fileto
+<item>Filiberto
+<item>Filomeno (a)
+<item>Filón
+<item>Filoteo
+<item>Filotero
+<item>Flaviana (o)
+<item>Flavio (a)
+<item>Floberto
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Filoberto</hi>
+<item>Flora
+<item>Florencio (a)
+<item>Florentino (a)
+<item>Florián (o) (a)
+<item>Focas
+<item>Fortunato (a)
+<item>Francisco (a)
+<item>Fraterno
+<item>Froilán (a)
+<item>Fructuoso (a)
+<item>Frutos
+<item>Fulco
+<item>Fulgencio (a)
+<item>Fusca
+</list>
+
+
+<div2 id=pbn.g>
+<head>G</head>
+
+<list rend="columns(3)">
+<item>Gabino (a)
+<item>Gabriel (a)
+<item>Galación
+<item>Galatas
+<item>Galicano
+<item>Galo (a)
+<item>Gamaliel
+<item>Gaspar (a)
+<item>Gaudencio (a)
+<item>Gaudioso
+<item>Gaudino
+<item>Gaugerico
+<item>Gedeón
+<item>Gelando
+<item>Gelasio
+<item>Geminiano (a)
+<item>Gemma
+  <lb rend="indent(1em)"><hi rend=small>Probably corr. of Emmao or Ema</hi>
+<item>Genadio
+<item>Genaro (a)
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Jenaro (a)</hi>
+<item>General
+<item>Generoso (a)
+<item>Genoveva
+<item>Georgia
+<item>Gerardo (a)
+<item>Gereón
+<item>Gerino
+<item>Germán (o) (a)
+<item>Geroncio
+<item>Gerónimo
+  <lb rend="indent(1em)"><hi rend=small>Misspelling for Jeronimo</hi>
+<item>Gertrudis
+<item>Geruncio
+<item>Gervasio (a)
+<item>Getulio
+<item>Gil
+<item>Ginés
+<item>Gisleno
+<item>Glafira
+<item>Glicerio (a)
+<item>Glodovaldo
+  <lb rend="indent(1em)"><hi rend=small>Misspelling for Clodoaldo</hi>
+<item>Goar
+<item>Godolfredo
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Godofrido</hi>
+<item>Gonzalo
+<item>Gorgonio (a)
+<item>Graciano (a)
+<item>Gracio (a)
+<item>Grato (a)
+<item>Gregorio (a)
+<item>Gudelia
+<item>Guido
+<item>Guillermo (a)
+<item>Gumersindo
+<item>Gundenes
+<item>Gundula
+  <lb rend="indent(1em)"><hi rend=small>Erroneous dim. of Gundenes</hi>
+<item>Guniforte
+<item>Gurias
+</list>
+
+
+<div2 id=pbn.h>
+<head>H</head>
+
+<list rend="columns(3)">
+<item>Heladio (a)
+<item>Heliades
+<item>Heliodoro
+<item>Heraclio
+<item>Heradio (a)
+<item>Herculano
+<item>Herena
+<item>Herenia
+<item>Heriberto (a)
+<item>Hermas
+<item>Hermenegildo (a)
+<item>Herminia
+<item>Hermógenes (ena)
+<item>Herón
+<item>Herundina
+<item>Hieroteo
+<item>Higinio (a)
+<item>Higino (a)
+  <lb rend="indent(1em)"><hi rend=small>Corr. of the preceding</hi>
+<item>Hilario (a) (on)
+<item>Hilaro
+<pb id=pb13 n=13 facs="f:013"><item>Hiltrudes
+<item>Hipado (a)
+<item>Hipólito
+<item>Honesto
+<item>Honorato (a)
+<item>Honorio (a)
+<item>Hortensio (a)
+<item>Hospicio (a)
+<item>Hugo
+</list>
+
+
+<div2 id=pbn.i>
+<head>I</head>
+
+<list rend="columns(3)">
+<item>Ida
+<item>Ifigenia
+<item>Igmedio
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Emigdio</hi>
+<item>Ignacio (a)
+<item>Ildefonso (a)
+<item>Iluminado (a)
+<item>Indalecio
+<item>Indés
+<item>Inés
+<item>Inocencio (a)
+<item>Inocente
+<item>Inocentes
+<item>Iñigo
+<item>Iradia
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Iraides</hi>
+<item>Irene (eo) (ea)
+<item>Irmina
+<item>Isaac
+<item>Isabel
+<item>Isabelo
+<item>Isabino
+<item>Isacio
+<item>Isaías
+<item>Isidoro (a)
+<item>Isidro (a)
+<item>Ismael
+<item>Ivon
+</list>
+
+
+<div2 id=pbn.j>
+<head>J</head>
+
+<list rend="columns(3)">
+<item>Jacinto (a)
+<item>Jacob (o) (a)
+<item>Jaime
+<item>Jantipa
+<item>Januario (a)
+<item>Jasón
+<item>Javier
+<item>Jenaro
+<item>Jeremías
+<item>Jerónimo
+<item>Jesús (sa)
+<item>Joaquín (a)
+<item>Job
+<item>Joel
+<item>Jonás
+<item>Jorge (ea)
+<item>José (fa) (fina)
+<item>Josué
+<item>Jovito (a)
+<item>Juan (a)
+<item>Judas
+<item>Julio (a)
+<item>Julián (a)
+<item>Julita
+<item>Justiniano (a)
+<item>Justino (a)
+<item>Justo (a)
+<item>Juvencio
+</list>
+
+
+<div2 id=pbn.l>
+<head>L</head>
+
+<list rend="columns(3)">
+<item>Ladislao
+<item>Lamberto
+<item>Largo
+<item>Laurencio (a)
+<item>Laurentino
+<item>Lauriano (a)
+<item>Lauro (a)
+<item>Lázaro
+<item>Leandro
+<item>Leacadio (a)
+<item>Leodegario
+<item>León (a)
+<item>Leonardo (a)
+<item>Leoncio (a)
+<item>Leonides
+<item>Leonila
+<item>Leonor (or a)
+<item>Leopardo
+<item>Leopoldo
+<item>Leovigildo
+<item>Leto
+<item>Liberato (a)
+<item>Liberio
+<item>Liborio
+<item>Librada
+<item>Licerio
+<item>Licirio
+<item>Lidia
+  <lb rend="indent(1em)"><hi rend=small>Barbarism for Lydia</hi>
+<item>Ligorio
+<item>Lino (a)
+<item>Lioba
+<item>Llorente
+<item>Longinos
+<item>Lope
+<item>Lopez
+<item>Lorenzo (a)
+<item>Loreto
+<item>Lourdes
+<item>Lucas
+<item>Lucía
+<item>Luciano
+<item>Lucila
+<item>Lucina
+<item>Lucio
+<pb id=pb14 n=14 facs="f:014"><item>Lucrecio (a)
+<item>Ludovico
+<item>Luís (a)
+<item>Lupcino
+<item>Lupencio
+  <lb rend="indent(1em)"><hi rend=small>Misspelling of Lupcino</hi>
+<item>Luperio
+<item>Lupo
+<item>Lutgardes
+<item>Lutgardo
+<item>Luz
+<item>Lydia
+</list>
+
+
+<div2 id=pbn.m>
+<head>M</head>
+
+<list rend="columns(3)">
+<item>Macario (a)
+<item>Macedon
+<item>Macedonio
+<item>Macra
+<item>Macrina
+<item>Macrobio
+<item>Madrona
+  <lb rend="indent(1em)"><hi rend=small>Misspelling of Matrona</hi>
+<item>Magdalena
+<item>Magín (a)
+<item>Magnerico
+<item>Magno (a)
+<item>Malaquías
+<item>Mamerto (a)
+<item>Mameto
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Mamerto</hi>
+<item>Mamiliano
+<item>Manuel (a)
+<item>Maranto
+  <lb rend="indent(1em)"><hi rend=small>Corr. of Amaranto</hi>
+<item>Marceliano
+<item>Marcelino (a)
+<item>Marcelo (a)
+<item>Marcia
+<item>Marcial
+<item>Marciano (a)
+<item>Marcos (a)
+<item>Mardonio
+<item>Margarita
+<item>María
+<item>Mariano (a)
+<item>Marino (a)
+<item>Mario
+<item>Marón
+<item>Marta
+<item>Martín (a)
+<item>Martiniano (a)
+<item>Martirio
+<item>Mateo (ea) (ías)
+<item>Materno
+<item>Matilde
+<item>Matrona
+<item>Mauro (a)
+<item>Mauricio (a)
+<item>Maximiano (a)
+<item>Maximiliano (a)
+<item>Maximino (a)
+<item>Maximo (a)
+<item>Medardo
+<item>Melanio (a)
+<item>Melchor (a)
+<item>Melecio (a)
+<item>Melitina
+<item>Melito
+<item>Melquiades
+<item>Menas (eo)
+<item>Merced
+<item>Mercedes
+<item>Mercurio (a)
+<item>Metodio
+<item>Micaela
+<item>Miguel (a)
+<item>Mirón
+<item>Miropo
+<item>Modesto (a)
+<item>Moisés (etes)
+<item>Mónico (a)
+<item>Monitor
+<item>Montano
+<item>Mucio
+<item>Mustióla
+</list>
+
+
+<div2 id=pbn.n>
+<head>N</head>
+
+<list rend="columns(3)">
+<item>Nabor
+<item>Narciso (a)
+<item>Natalio (a)
+<item>Natividad
+<item>Naulina
+<item>Naval
+<item>Nazario (a)
+<item>Nemesio
+<item>Nemorio
+<item>Neomisia
+<item>Neón
+<item>Nereo
+<item>Nestor
+<item>Nestorio
+<item>Nicandro
+<item>Nicanor (a)
+<item>Nicasio (a)
+<item>Nicéforo
+<item>Niceta
+<item>Nicetas
+<item>Nicodemos
+<item>Nicolás (a)
+<item>Nicomedes
+<item>Nieves
+<item>Nilo
+<item>Nimia
+<item>Nono (a)
+<item>Nonita
+  <lb rend="indent(1em)"><hi rend=small>Dim. of above</hi>
+<item>Norberto
+<item>Novato
+<item>Numeriano
+<item>Nunilón
+</list>
+
+
+<pb id=pb15 n=15 facs="f:015">
+<div2 id=pbn.o>
+<head>O</head>
+
+<list rend="columns(3)">
+<item>Obdulia
+<item>Octaviano
+<item>Octavio (a)
+<item>Odón
+<item>Olavo
+<item>Olegario
+<item>Olimpio (a)
+<item>Oliva
+<item>Onésimo
+<item>Onofre
+<item>Optaciano
+<item>Orestes
+<item>Oscar
+<item>Osmundo
+<item>Osorio
+<item>Ostiano
+<item>Otilia
+</list>
+
+
+<div2 id=pbn.p>
+<head>P</head>
+
+<list rend="columns(3)">
+<item>Pablo
+<item>Paciano
+<item>Paciencia
+<item>Paciente
+<item>Pacifico
+<item>Pacita
+  <lb rend="indent(1em)"><hi rend=small>Dim. of Paz</hi>
+<item>Pafnucio
+<item>Paladio (a)
+<item>Palemón
+<item>Pancracio
+<item>Pánfilo
+<item>Pantaleón (a)
+<item>Parmenas
+<item>Parmenio
+<item>Pascasio
+<item>Pascual (a)
+<item>Pastor (a)
+<item>Patermucio
+<item>Paterno
+<item>Patricio (a)
+<item>Patrocinio
+<item>Patronio
+  <lb rend="indent(1em)"><hi rend=small>Misspelling of Petronio</hi>
+<item>Paulo (a)
+<item>Paulino (a)
+<item>Páz
+<item>Pedro
+<item>Pelagio (a)
+<item>Pelayo
+<item>Pelegrín (a)
+<item>Pelensio
+<item>Peleo
+<item>Pentecostes
+<item>Perfecto (a)
+<item>Peregrino
+<item>Perpetuo (a)
+<item>Perseveranda
+<item>Petra
+<item>Petrona
+<item>Petronilo (a)
+<item>Petronio
+<item>Piencia
+<item>Pilar
+<item>Pío (a)
+<item>Plácido (a)
+<item>Platón
+<item>Plautila
+<item>Policarpo (a)
+<item>Policronio
+<item>Polixena
+<item>Pompeyo
+<item>Pomposa
+<item>Ponciano (a)
+<item>Poncio
+<item>Porcario
+<item>Porfirio (a)
+<item>Potamiena
+<item>Potamio (a) (ón)
+<item>Potenciano (a)
+<item>Pragmático
+<item>Práxedes
+<item>Praxidio
+  <lb rend="indent(1em)"><hi rend=small>Barbarism for Presidio</hi>
+<item>Precioso (a)
+<item>Presentación
+<item>Presidio
+<item>Primitivo (a)
+<item>Primo
+<item>Prisco (a)
+<item>Priscila
+<item>Privado
+<item>Probo
+<item>Proceso (a)
+<item>Procopio
+<item>Próculo
+<item>Próspero
+<item>Protasio
+<item>Proto
+<item>Prudenciana
+<item>Prudencio (a)
+<item>Publio (a)
+<item>Pulqueria
+<item>Pura
+<item>Purificación
+<item>Purísimo (a)
+</list>
+
+
+<div2 id=pbn.q>
+<head>Q</head>
+
+<list rend="columns(3)">
+<item>Queremón
+<item>Querubín
+<item>Quiliano
+<item>Quinciano
+<item>Quintila
+<item>Quintile
+<item>Quintín (a) (o)
+<item>Quiriaco
+<item>Quirico
+<item>Quirino
+<item>Quiterio (a)
+</list>
+
+
+<pb id=pb16 n=16 facs="f:016">
+<div2 id=pbn.r>
+<head>R</head>
+
+<list rend="columns(3)">
+<item>Radegunda
+<item>Rafael (a)
+<item>Raimundo (a)
+<item>Rainaldo
+<item>Rainelda
+<item>Rainerio
+<item>Ramiro
+<item>Ramon (a)
+<item>Ranulfo
+<item>Raquel
+<item>Redempta
+<item>Regino (a)
+<item>Remedío
+<item>Remedios
+<item>Remigio (a)
+<item>Reparata
+<item>Reparaz
+<item>Resada
+<item>Respicio
+<item>Restituto (a)
+<item>Resurrección
+<item>Ricardo (a)
+<item>Ricario
+<item>Rigoberto
+<item>Rita
+<item>Rizal
+<item>Roberto
+<item>Rodrigo (a)
+<item>Rodulfo
+<item>Rogaciano
+<item>Rogelio (a)
+<item>Roman (a) (o)
+<item>Romarico
+<item>Romualdo (a)
+<item>Rómulo (a)
+<item>Roque
+<item>Rosa
+<item>Rosalío (a)
+<item>Rosario
+<item>Rosauro (a)
+<item>Rosela
+  <lb rend="indent(1em)"><hi rend=small>Barbarism for Rósula</hi>
+<item>Rosendo (a)
+<item>Roseta
+<item>Rósula
+<item>Rufino (a)
+<item>Rufo (a)
+<item>Ruperto (a)
+<item>Rústico (a)
+</list>
+
+
+<div2 id=pbn.s>
+<head>S</head>
+
+<list rend="columns(3)">
+<item>Sabas
+<item>Sabel
+<item>Sabiniano
+<item>Sabino (a)
+<item>Sadot
+<item>Sagar
+<item>Salaberga
+<item>Salomé (ca) (ón)
+<item>Salud
+<item>Salustia
+<item>Salustiano
+<item>Salvador
+<item>Salvino
+<item>Salvio
+<item>Samonas
+<item>Samuel
+<item>Sancho (a)
+<item>Sándalo
+<item>Santiago
+<item>Santos
+<item>Saturnino (a)
+<item>Saturo
+<item>Saula
+<item>Savino (a)
+<item>Sebastia (án) (a)
+<item>Sacundiano
+<item>Secundila
+<item>Secundino (a)
+<item>Segismundo
+<item>Segundina (o)
+<item>Segundo (a)
+<item>Semproniana
+<item>Senén
+<item>Sefarín (a)
+<item>Serapia (o) (ón)
+<item>Sereno (a)
+<item>Sergio (a)
+<item>Servando
+<item>Servideo
+<item>Serviliano
+<item>Servo
+<item>Servulo
+<item>Severiano (a)
+<item>Severino (a)
+<item>Sexto
+<item>Siervo
+  <lb rend="indent(1em)"><hi rend=small>Better spelling, Servo</hi>
+<item>Silvano
+<item>Silverio (a)
+<item>Silvestro (a)
+<item>Silvino (a)
+<item>Silvio (a)
+<item>Símaco
+<item>Simeón (a)
+<item>Simón (a)
+<item>Simplicio (a)
+<item>Sinforoso (a)
+<item>Sinesio
+<item>Síntica
+  <lb rend="indent(1em)"><hi rend=small>Better spelling, Sintiques</hi>
+<item>Sintiques
+<item>Siricio
+<item>Siro
+<item>Sisenando
+<item>Sixto (a)
+<item>Socolano
+  <lb rend="indent(1em)"><hi rend=small>Barbarism for Solocano</hi>
+<item>Socorro
+<item>Sofía
+<pb id=pb17 n=17 facs="f:017"><item>Sofronio (a)
+<item>Solócano
+<item>Sotero (a)
+<item>Sulpicio
+<item>(Surano)
+<item>Susana
+</list>
+
+
+<div2 id=pbn.t>
+<head>T</head>
+
+<list rend="columns(3)">
+<item>Taciano (a)
+<item>Tadeo
+<item>Tais
+<item>Tarbula
+<item>Tarcila
+<item>Taurino
+<item>Tea
+<item>Tecla
+<item>Telesforo (a)
+<item>Temístocles
+<item>Teodardo
+<item>Teodorico (a)
+<item>Teodoro (a)
+<item>Teodosio (a)
+<item>Teodoto (a)
+<item>Teodulfo
+<item>Teodulo
+<item>Teófilo (a)
+<item>Teopisto (es)
+<item>Teótimo
+<item>Terenciano
+<item>Tereso (a)
+<item>Tiburcio (a)
+<item>Timolao
+<item>Timoteo (a)
+<item>Tirso
+<item>Tito
+<item>Tobías
+<item>Tolomeo
+<item>Tomás (a)
+<item>Torcuato (a)
+<item>Toribio (a)
+<item>Torpetes
+<item>Tranquilino (a)
+<item>Trasón
+<item>Trifón (a) (ia)
+<item>Trifosa
+<item>Trinidad
+<item>Troadio
+<item>Troyano
+<item>Turiano (a)
+</list>
+
+
+<div2 id=pbn.u>
+<head>U</head>
+
+<list rend="columns(3)">
+<item>Ubaldo (a)
+<item>Uldarico
+<item>Ulpiano
+<item>Ulrica
+<item>Urbano (a)
+<item>Ursino
+<item>Urso
+<item>Úrsula
+<item>Urselino (a)
+</list>
+
+
+<div2 id=pbn.v>
+<head>V</head>
+
+<list rend="columns(3)">
+<item>Valencio
+<item>Valente
+<item>Valentín (a)
+<item>Valeriano (a)
+<item>Valerio (a)
+<item>Vasco
+<item>Vedasto
+<item>Venancio (a)
+<item>Venerando (a)
+<item>Ventura
+<item>Verecundo
+<item>Verena
+<item>Verónica
+<item>Vérulo
+<item>Vicente (a)
+<item>Víctor
+<item>Victoriano (a)
+<item>Victorio (a)
+<item>Victorino (a)
+<item>Victuro
+<item>Vidal
+<item>Vigilio (a)
+<item>Virgilio
+<item>Virginia
+<item>Visitación
+<item>Vitaliano
+<item>Vitalico
+<item>Vito
+<item>Viviano (a)
+<item>Vivencio (a)
+<item>Vivina
+<item>Voto
+<item>Vulpiano
+</list>
+
+
+<div2 id=pbn.w>
+<head>W</head>
+
+<list rend="columns(3)">
+<item>Walfrido
+<item>Wenceslao
+<item>Wilibrordo
+<item>Wiro
+<item>Wistremundo
+</list>
+
+
+<div2 id=pbn.z>
+<head>Z</head>
+
+<list rend="columns(3)">
+<item>Zacharías
+<item>Zenaides
+<item>Zenas
+<item>Zenobio (a)
+<item>Zenón (a)
+<item>Zoa
+<item>Zoe
+<item>Zoelo
+<item>Zoilo (a)
+<item>Zósimo (a)
+<item>Zotico
+</list>
+
+
+
+
+
+</div1>
+</body>
+<back id=backmatter>
+
+
+<divGen type=toc id=toc>
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=&ldquo;indent(2)&rdquo;
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Posting
+
+[ ] Make sure dp-post@pgdp.net is cc-ed on upload
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
